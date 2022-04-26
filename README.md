@@ -6,6 +6,10 @@ El link para visualizarlo es el siguiente: https://public.tableau.com/views/Revo
 
 ## Base de datos
 
+Para conocer información de votación específica dar click con el cursor sobre la Entidad Federativa en cualquiera de los mapas Federales.
+
+## Base de datos
+
 Obtenida del Instituto Nacional Electoral: https://computosrm2022.ine.mx/base-de-datos
 
 ## Fecha
