@@ -4,7 +4,7 @@ El dashboard "Revocación de mandato - México" tiene como objetivo mostrar una 
 
 El link para visualizarlo es el siguiente: https://public.tableau.com/views/Revocacindemandato-Mxico/RevocacindemandatoMxico2022?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-## Base de datos
+## Nota
 
 Para conocer información de votación específica dar click con el cursor sobre la Entidad Federativa en cualquiera de los mapas Federales.
 
