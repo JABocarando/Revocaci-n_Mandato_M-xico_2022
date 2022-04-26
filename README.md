@@ -10,9 +10,9 @@ Obtenida del Instituto Nacional Electoral: https://computosrm2022.ine.mx/base-de
 
 ## Fecha
 
-April - 2022
+Abril - 2022
 
-## Content
+## Contenido
 
 - 09_CDMX.zip (shapefile)
 - 15_MEXICO.zip (shapefile)
